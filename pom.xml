@@ -4,7 +4,7 @@
   <artifactId>M1-TP-GLOG-CI</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>M1-TP-GLOG-CI</name>
-  <description>m1-tp-jenkins-pipeline</description>
+  <description>M1-TP-GLOG-CI</description>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
